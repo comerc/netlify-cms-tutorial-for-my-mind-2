@@ -1,1 +1,0 @@
-# netlify-cms-tutorial-for-my-mind
