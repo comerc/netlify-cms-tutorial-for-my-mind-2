@@ -8,5 +8,6 @@ tags:
   - '333'
 airport-code: CDG
 blog: '123'
+thumbnail: /static/assets/4187821683.jpg
 ---
 **ssss**
