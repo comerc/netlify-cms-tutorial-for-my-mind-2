@@ -6,5 +6,7 @@ tags:
   - '111222'
   - '222'
   - '333'
+airport-code: CDG
+blog: '123'
 ---
 
